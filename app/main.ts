@@ -17,5 +17,7 @@ platformBrowserDynamic().bootstrapModule(AppModule).then(ref => {
 
   // edinei
 
+  // teste
+
   // Otherise, log the boot error
 }).catch(err => console.error(err));
